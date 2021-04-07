@@ -1,0 +1,110 @@
+html{
+    font-family: 'Raleway', sans-serif;
+}
+
+.container{
+    border: 2px solid #808080;
+    padding: 10px;
+    margin: 10px auto;
+}
+
+
+
+/* colour box section */
+
+.color-panel{
+    display: inline-block;
+    min-width: 200px;
+    min-height: 100px;
+    text-align: center;
+    margin: 20px auto;
+    
+}
+
+.color-panel p{
+    align-items: center;
+}
+
+.darkgrey{
+    color: #cccccc;
+    background-color: #333333;
+}
+
+.lightgrey{
+    background-color: #808080;
+}
+
+.olivegreen{
+    background-color: #66806d;
+}
+
+.ash{
+    background-color: #cccccc;
+}
+
+
+/* font section */
+
+.fontcontainer{
+    margin: 20px auto;
+}
+
+.font-panel{
+    margin: 35px 35px;
+    display: inline-block;
+}
+
+.font-name{
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.robotocondensed{
+    font-family: 'Roboto Condensed', sans-serif; 
+}
+
+.raleway{
+    font-family: 'Raleway', sans-serif;
+}
+
+.playfairdisplay{
+    font-family: 'Playfair Display', serif;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+/* text style setction */
+
+.stylecontainer{
+    margin: 20px auto;
+}
+
+.style-panel{
+    margin: 35px 35px;
+    display: block;
+}
+
+
+.style-panel h1{
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.style-panel h2{
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Playfair Display', serif;
+}
+
+.style-panel p{
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+}
