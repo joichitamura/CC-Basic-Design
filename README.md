@@ -1,2 +1,4 @@
 # CC Basic Design
- Codecademy -BuildWebsiteDesignSystem by JT
+ Codecademy Project
+ Build Website Design System
+ 
